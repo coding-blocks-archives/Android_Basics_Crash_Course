@@ -1,15 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:tools="http://schemas.android.com/tools"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         tools:context=".MainActivity">
 
-    <Button
-            android:id="@+id/btnGoRed"
-            android:text="Go Red"
+    <LinearLayout
+            android:orientation="horizontal"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center" />
+            android:layout_height="wrap_content">
 
-</FrameLayout>
+        <EditText
+                android:id="@+id/etUrl"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"/>
+        <Button
+                android:id="@+id/btnBrowse"
+                android:text="BROWSE"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+        <EditText
+                android:id="@+id/etPhNo"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"/>
+        <Button
+                android:id="@+id/btnDial"
+                android:text="DIAL"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+</LinearLayout>
