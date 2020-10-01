@@ -4,8 +4,6 @@
   <img src="https://blog.codingblocks.com/content/images/size/w2000/2020/08/Android-Blog.jpg">
 </p>
 
-# Android Basics Crash Course
-
 This repository is for beginners Android app devloper for geting started with android app.Topicwise source code available.**Kotlin**
 
 ## What you can find in this repository
