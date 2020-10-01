@@ -1,7 +1,7 @@
 # Android Basics Crash Course
 
 <p align="center">
-  <img src="http://startupbhopal.com/wp-content/uploads/2019/03/android-app-banner-1440x720.jpg">
+  <img src="https://blog.codingblocks.com/content/images/size/w2000/2020/08/Android-Blog.jpg">
 </p>
 
 # Android Basics Crash Course
@@ -23,7 +23,7 @@ Topicwise source code for Android App devlopment. See the below table for furthe
 
 
 ## Some Usefull Links
-[Coding Blocks youtube channel](https://www.youtube.com/channel/UCICWIYEx2mo4wYZzLwJ7wVw|
-[Android Development Roadmap(Youtube)](https://www.youtube.com/watch?v=BakbEAyXoMI)
-[Android Development Roadmap(Github)](https://github.com/Marvel999/Android-RoadMap-OneNote)
+[Coding Blocks (Youtube Channel)](https://www.youtube.com/channel/UCICWIYEx2mo4wYZzLwJ7wVw) <br/>
+[Android Development Roadmap(Youtube)](https://www.youtube.com/watch?v=BakbEAyXoMI) <br/>
+[Android Development Roadmap(Github)](https://github.com/Marvel999/Android-RoadMap-OneNote)<br/>
 
